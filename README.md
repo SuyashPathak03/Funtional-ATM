@@ -1,4 +1,4 @@
-# ATM System
+# ATM ransaction Management System
 
 A simple Python-based **Functional ATM Simulation** built for learning and demonstration of basic banking operations using functions.
 
