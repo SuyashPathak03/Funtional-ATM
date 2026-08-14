@@ -1,4 +1,4 @@
-# Functional ATM
+# ATM System
 
 A simple Python-based **Functional ATM Simulation** built for learning and demonstration of basic banking operations using functions.
 
